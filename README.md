@@ -36,9 +36,9 @@ me.say_hi()
 
 ### 🎯 Current Adventures
 
-- 🔭 Exploring the realms of **Large Language Models**
+- 🔭 Exploring the realms of **DEEP Language Models**
 - 🌱 Building **GenAI applications** that solve real-world problems
-- 💡 Experimenting with **MLOps** and **AI Infrastructure**
+- 💡 Experimenting with **AI Infrastructure**
 - 🎯 Creating **end-to-end ML pipelines**
 - ⚡ Fun fact: I debug with `print("here")` statements 😅
 
@@ -47,25 +47,15 @@ me.say_hi()
 <details>
 <summary>🐍 Languages & Frameworks</summary>
 <br>
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,flask,tensorflow" />
-</details>
-
-<details>
-<summary>☁️ Cloud & DevOps</summary>
-<br>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,kubernetes,jenkins" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css" />
 </details>
 
 <details>
 <summary>🤖 AI/ML Arsenal</summary>
 <br>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Langchain](https://img.shields.io/badge/🦜_Langchain-12100E?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
 </details>
 
 ### 📊 Magical Stats
