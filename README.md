@@ -65,11 +65,12 @@ me.say_hi()
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandaniipriya&theme=tokyonight&hide_border=true" />
 </div>
 
-### 🌟 Weekly Coding Adventure
+### 🐍 Contribution Graph Snake Animation
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandaniipriya&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/Nandaniipriya/Nandaniipriya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![GitHub Contribution Snake Animation Dark](https://raw.githubusercontent.com/Nandaniipriya/Nandaniipriya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 ### 🎮 Let's Connect and Build Together!
 
